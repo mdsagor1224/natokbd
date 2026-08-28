@@ -69,7 +69,7 @@ export const natoks = [
     title: 'Sukher Golpo | Full Drama | Jovan | Keya Payel | Eid Natok',
     slug: 'Sukher-Golpo',
     thumbnail: '/images/natok-4.webp',
-    videoUrl: 'https://www.youtube.com/embed/37p6_DJivt4',
+    videoUrl: 'https://www.youtube.com/embed/37p6_DJivt4?start=1646',
     category: 'Drama',
     date: '2026-08-18',
     trending: true
