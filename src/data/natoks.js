@@ -35,6 +35,17 @@ export const categories = [
 
 export const natoks = [
   {
+    id: 10,
+    title: 'Hridoye Rekhechi Gopone | Full Natok | Yash Rohan | Totini | Eid Natok 2025 | Bangla Natok',
+    slug: 'Hridoye-Rekhechi-Gopone',
+    thumbnail: '/images/natok-10.webp',
+    videoUrl: 'https://www.youtube.com/embed/AqapuzJkK8w',
+    category: 'Romantic',
+    date: '2026-08-28',
+    featured: true,
+    trending: true
+  },
+  {
     id: 9,
     title: 'Boro Chele বড় ছেলে | Ziaul Faruq Apurba | Mehazabien | Mizanur Rahman Aryan Bangla Natok',
     slug: 'bhalobashar-notun-golpo',
