@@ -95,10 +95,10 @@ export const natoks = [
   },
   {
     id: 3,
-    title: 'হাসি-কান্নার সংসার',
-    slug: 'hashi-kannar-shongshar',
+    title: 'Tomader Golpo | YouTube Film | Farhan Ahmed Jovan | Tanjim Saiara Totini | M M Kamal Raz | Eid 2025',
+    slug: 'Tomader-Golpo',
     thumbnail: '/images/natok-7.webp',
-    videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
+    videoUrl: 'https://www.youtube.com/embed/OocqG7u1r6U?start=45',
     category: 'Comedy',
     date: '2026-08-06',
     description: 'দৈনন্দিন সাংসারিক জীবনের মজার সব ঘটনা নিয়ে দর্শকপ্রিয় একটি পারিবারিক কমেডি নাটক।'
