@@ -47,13 +47,12 @@ export const natoks = [
   },
   {
     id: 8,
-    title: 'হাসির রাজ্যে এক দিন',
-    slug: 'hashir-rajje-ek-din',
+    title: 'মন মায়াতে | Natok Bari | Full Natok | Mon Mayate | Yash Rohan | Aisha khan | New Natok 2026',
+    slug: 'Mon Mayate',
     thumbnail: '/images/natok-2.webp',
-    videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
+    videoUrl: 'https://www.youtube.com/watch?v=AkNG9w1qyOU',
     category: 'Comedy',
     date: '2026-08-25',
-    description: 'একটি ছোট শহরের কয়েকজন বন্ধুর মজার এবং হাস্যরসাত্মক দিনযাপনের গল্প নিয়ে এই কমেডি নাটক।',
     trending: true
   },
   {
