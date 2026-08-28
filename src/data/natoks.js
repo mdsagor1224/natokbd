@@ -63,17 +63,15 @@ export const natoks = [
     videoUrl: 'https://www.youtube.com/embed/jqjewupRS8w',
     category: 'Family',
     date: '2026-08-22',
-    description: 'একটি যৌথ পরিবারের সুখ-দুঃখ, ঝগড়া আর ভালোবাসার মিষ্টি মুহূর্ত নিয়ে তৈরি একটি পারিবারিক নাটক।'
   },
   {
     id: 6,
-    title: 'নিঃশব্দ যন্ত্রণা',
-    slug: 'nishobdo-jontrona',
+    title: 'Sukher Golpo | Full Drama | Jovan | Keya Payel | Eid Natok',
+    slug: 'Sukher-Golpo',
     thumbnail: '/images/natok-4.webp',
-    videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
+    videoUrl: 'https://www.youtube.com/embed/37p6_DJivt4&t=1646s',
     category: 'Drama',
     date: '2026-08-18',
-    description: 'জীবনের কঠিন বাস্তবতার মুখোমুখি দাঁড়িয়ে একজন মানুষের সংগ্রাম আর আত্মউপলব্ধির গল্প বলে এই ড্রামা।',
     trending: true
   },
   {
