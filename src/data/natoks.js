@@ -85,10 +85,10 @@ export const natoks = [
   },
   {
     id: 4,
-    title: 'রঙিন স্বপ্নের ফেরিওয়ালা',
-    slug: 'rongin-shopner-feriwala',
+    title: 'সুবিধাবাদী | Mosharraf Karim, JS Heme | Full Drama | Mohin Khan | New Natok 2026 | Global TV Online',
+    slug: 'subidhabadi',
     thumbnail: '/images/natok-6.webp',
-    videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
+    videoUrl: 'https://www.youtube.com/embed/xQrdhKcBes8',
     category: 'Romantic',
     date: '2026-08-10',
     description: 'ছোট শহরের এক তরুণের বড় স্বপ্ন আর তার জীবনে আসা ভালোবাসার গল্প নিয়ে এই রোমান্টিক নাটক।'
