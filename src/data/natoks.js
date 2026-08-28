@@ -39,7 +39,7 @@ export const natoks = [
     title: 'Boro Chele বড় ছেলে | Ziaul Faruq Apurba | Mehazabien | Mizanur Rahman Aryan Bangla Natok',
     slug: 'bhalobashar-notun-golpo',
     thumbnail: '/images/natok-1.webp',
-    videoUrl: 'https://www.youtube.com/watch?v=eb6mCg1dB0Y',
+    videoUrl: 'https://www.youtube.com/embed/eb6mCg1dB0Y',
     category: 'Romantic',
     date: '2026-08-28',
     featured: true,
