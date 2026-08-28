@@ -37,7 +37,7 @@ export const natoks = [
   {
     id: 10,
     title: 'Hridoye Rekhechi Gopone | Full Natok | Yash Rohan | Totini | Eid Natok 2025 | Bangla Natok',
-    slug: 'Hridoye-Rekhechi-Gopone',
+    slug: 'hridoye-rekhechi-gopone',
     thumbnail: '/images/natok-10.webp',
     videoUrl: 'https://www.youtube.com/embed/AqapuzJkK8w',
     category: 'Romantic',
