@@ -101,17 +101,15 @@ export const natoks = [
     videoUrl: 'https://www.youtube.com/embed/OocqG7u1r6U?start=45',
     category: 'Comedy',
     date: '2026-08-06',
-    description: 'দৈনন্দিন সাংসারিক জীবনের মজার সব ঘটনা নিয়ে দর্শকপ্রিয় একটি পারিবারিক কমেডি নাটক।'
   },
   {
     id: 2,
-    title: 'আপনজন',
-    slug: 'aponjon',
+    title: 'Bhalobashar Rong | ভালবাসার রং | Mumtaheena Toya, Shamol Mawla | Bangla New Natok 2023 | Rtv Drama',
+    slug: 'Bhalobashar-Rong',
     thumbnail: '/images/natok-8.webp',
-    videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
+    videoUrl: 'https://www.youtube.com/embed/bj-yxJw6pV4',
     category: 'Family',
     date: '2026-08-02',
-    description: 'রক্তের সম্পর্কের বাইরেও যে আপন মানুষ তৈরি হয়, তারই এক আবেগঘন গল্প নিয়ে এই নাটক।'
   },
   {
     id: 1,
