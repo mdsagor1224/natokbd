@@ -57,10 +57,10 @@ export const natoks = [
   },
   {
     id: 7,
-    title: 'পরিবার মানেই ভালোবাসা',
-    slug: 'poribar-manei-bhalobasha',
+    title: 'Moner Moto Mon | মনের মতো মন | Full Natok | Yash Rohan | Niha | Imraul Rafat | New Bangla Natok 2026',
+    slug: 'Moner-Moto-Mon',
     thumbnail: '/images/natok-3.webp',
-    videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
+    videoUrl: 'https://www.youtube.com/embed/jqjewupRS8w',
     category: 'Family',
     date: '2026-08-22',
     description: 'একটি যৌথ পরিবারের সুখ-দুঃখ, ঝগড়া আর ভালোবাসার মিষ্টি মুহূর্ত নিয়ে তৈরি একটি পারিবারিক নাটক।'
