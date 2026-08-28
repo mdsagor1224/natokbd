@@ -76,13 +76,12 @@ export const natoks = [
   },
   {
     id: 5,
-    title: 'শেষ বিকেলের আলো',
-    slug: 'shesh-bikeler-alo',
+    title: 'Aaj Kal Tumi Ami | আজকাল তুমি আমি | Khairul Basar | Sadia Ayman | Bangla Natok 2026 | ATN Bangla',
+    slug: 'Aaj-Kal-Tumi-Ami',
     thumbnail: '/images/natok-5.webp',
-    videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
+    videoUrl: 'https://www.youtube.com/embed/_MViFDeh8zc',
     category: 'Short Film',
     date: '2026-08-14',
-    description: 'একটি ছোট গ্রামের প্রেক্ষাপটে তৈরি আবেগময় শর্ট ফিল্ম, যা মাত্র কয়েক মিনিটে দর্শকের মন ছুঁয়ে যায়।'
   },
   {
     id: 4,
