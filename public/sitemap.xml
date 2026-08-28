@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://your-domain.vercel.app/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://your-domain.vercel.app/search</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <!--
+    Add one <url> block per Natok slug whenever you publish a new post, e.g:
+    <url>
+      <loc>https://your-domain.vercel.app/natok/bhalobashar-notun-golpo</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+    See README.md "SEO & Sitemap" section for a script that generates this automatically.
+  -->
+</urlset>
