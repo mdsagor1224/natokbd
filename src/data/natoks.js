@@ -48,7 +48,7 @@ export const natoks = [
   {
     id: 8,
     title: 'মন মায়াতে | Natok Bari | Full Natok | Mon Mayate | Yash Rohan | Aisha khan | New Natok 2026',
-    slug: 'Mon Mayate',
+    slug: 'Mon-Mayate',
     thumbnail: '/images/natok-2.webp',
     videoUrl: 'https://www.youtube.com/embed/AkNG9w1qyOU',
     category: 'Comedy',
