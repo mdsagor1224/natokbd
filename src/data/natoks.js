@@ -113,12 +113,11 @@ export const natoks = [
   },
   {
     id: 1,
-    title: 'দ্বিধা',
-    slug: 'dhidha',
+    title: 'Jibon Sathi | Full Natok | Yash Rohan | Totini | New Natok',
+    slug: 'Jibon-Sathi',
     thumbnail: '/images/natok-9.webp',
-    videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
+    videoUrl: 'https://www.youtube.com/embed/Y9SYw-ju5SY',
     category: 'Drama',
     date: '2026-07-28',
-    description: 'সিদ্ধান্তহীনতার দ্বন্দ্বে আটকে থাকা এক তরুণীর জীবনের গল্প, যা প্রতিটি দর্শকের মনে প্রশ্ন তুলে দেবে।'
   }
 ]
