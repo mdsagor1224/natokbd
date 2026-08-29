@@ -34,6 +34,17 @@ export const categories = [
 ]
 
 export const natoks = [
+    {
+    id: 11,
+    title: 'Tui Theke Tumi | Full Drama | Tawsif Mahbub | Naznin Niha | Hasib Hossain Rakhi | Bangla Natok',
+    slug: 'Tui-Theke-Tumie',
+    thumbnail: '/images/natok-11.webp',
+    videoUrl: 'https://www.youtube.com/embed/UXHtX8MrD8Q',
+    category: 'Romantic',
+    date: '2026-08-28',
+    featured: true,
+    trending: true
+  },
   {
     id: 10,
     title: 'Hridoye Rekhechi Gopone | Full Natok | Yash Rohan | Totini | Eid Natok 2025 | Bangla Natok',
